@@ -8,7 +8,7 @@ const { TOKEN, PREFIX } = require("./config.json");
 
 const client = new Client({ disableMentions: "everyone" });
 
-client.login(TOKEN);
+client.login(Njg0OTA3NTY0MjI3NjI1MDkw.XmA74A.lOVXTb0SG6tV7-e-tPdOmTAg2N8);
 client.commands = new Collection();
 client.prefix = PREFIX;
 client.queue = new Map();
